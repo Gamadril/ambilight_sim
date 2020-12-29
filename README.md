@@ -1,3 +1,6 @@
+**Archived in favour of [ambilight_tpm2_sim](https://github.com/Gamadril/ambilight_tpm2_sim) which is more flexible and has less glitches**
+
+
 # TPM2 Ambilight Simulator
 
 Cross platform ambilight simulator written in Python. Acts as UDP Server and waits for incomming messages with RGB data in TPM2(.net) format.
